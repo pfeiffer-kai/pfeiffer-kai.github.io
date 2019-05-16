@@ -1,0 +1,19 @@
+- title: My Research
+  url: "/my-research/"
+  side: left
+
+- title: My Publications
+  url: "/my-publications/"
+  side: left
+
+- title: Curriculum Vitae
+  url: "/curriculum-vitae/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
