@@ -8,7 +8,7 @@ layout: frontpage
 title: "Welcome to my website!"
 subheadline: "Kai Pfeiffer - Robotic Researcher"
 header:
-  image_fullwidth: canada_banner.jpg
+  image_fullwidth: banner_japan.jpg
 #
 # Use the call for action to show a button on the frontpage
 #

@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 header:
-   image_fullwidth: "/canada_banner.jpg"
+   image_fullwidth: "/banner_japan.jpg"
 permalink: "/contact/"
 ---
 Contact me at "pfeiffer kai [] aist go jp"

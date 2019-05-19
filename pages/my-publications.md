@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "My publications"
 header:
-   image_fullwidth: "canada_banner.jpg"
+   image_fullwidth: "banner_japan.jpg"
 permalink: "/my-publications/"
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
 ---

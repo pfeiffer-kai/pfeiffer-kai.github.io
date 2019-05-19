@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "/canada_banner.jpg"
+   image_fullwidth: "/banner_japan.jpg"
 permalink: "/curriculum-vitae/"
 ---
 * 2016 - present: Pursuing PhD in robotics from University of Montpellier
